@@ -17,8 +17,8 @@ Step5: print palindrome if it's equal else print not a palindrome.
 Step6: stop
 ## Program:
 ```
-Name : Vidya Neela.M
-Reg No : 212221230120
+Name : MOTHESH M
+Reg No : 212221230066
 ```
 
 ```
